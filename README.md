@@ -27,7 +27,7 @@ Welcome to the AI Mock Interview Platform! This project aims to help users enhan
 
    ```bash
    cd ai-mock-interview-platform
-   pip install -r requirements.txt
+   npm install
    ```
 
 
@@ -36,13 +36,13 @@ Welcome to the AI Mock Interview Platform! This project aims to help users enhan
    Start the application using the following command:
 
    ```bash
-   python app.py
+   npm run dev
    ```
 
 
 4. **Access the Platform:**
 
-   Open your web browser and go to `http://localhost:5000` to start using the platform.
+   Open your web browser and go to `http://localhost:3000` to start using the platform.
 
 ## Contributing
 
